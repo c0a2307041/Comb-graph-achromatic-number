@@ -1,1 +1,7 @@
 # Comb-graph-achromatic-number
+
+comb_graph_drawing.pyではコームグフラを描画してくれる
+complete graph drawing.pyでは完全グラフを描画してくれる
+hamilton_exploration_genral.pyでは与えられたグラフの出次数の情報から、成り立つことでできるトーナメントを生成する。そして、総当たりでハミルトンサイクルがいくつあるか求めてくれる。
+hamilton_exploration_second.pyでは与えられたグラフの出次数の情報から、成り立つことでできるトーナメントを生成する。そして、時間内に見つけたハミルトンサイクルがいくつあるか教えてくれる。
+q_remainder.pyでは$m=np+q$のqを求めることが出来る。
